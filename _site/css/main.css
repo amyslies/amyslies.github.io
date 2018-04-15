@@ -1,0 +1,49 @@
+body {
+  color: #333;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#content-container {
+  margin-top: 40px;
+  background-color: white;
+  padding: 50px 20px;
+  display: inline-block;
+}
+
+#location {
+  font-size: 13px;
+}
+
+#header {
+  font-size: 40px;
+}
+
+a {
+  color: #8f74a4;
+  text-decoration: none;
+}
+
+p {
+  margin: 11px;
+}
+
+.contact p {
+  font-size: 15px;
+}
+
+a:focus,
+a:hover {
+  color: rgba(#000, 0.6);
+}
+
+#footer {
+  font-size: 11px;
+}
+
+.avatar {
+  display: inline-block;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
