@@ -28,8 +28,9 @@ p {
   margin: 11px;
 }
 
-.contact p {
-  font-size: 15px;
+.section-title {
+  font-size: 23px;
+  font-weight: bold;
 }
 
 a:focus,
